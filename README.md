@@ -4,9 +4,9 @@ Setup/Installation Requirements; No special setup required; simply open the HTML
 
 Known Bugs, There are no known bugs as of now.
 
-Technologies Used HTML
+Technologies Used include HTML 
 
-CSS
+CSS and
 
 JavaScript
 
