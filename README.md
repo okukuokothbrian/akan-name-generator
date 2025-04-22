@@ -10,6 +10,6 @@ CSS and
 
 JavaScript
 
-Support and contact details For any issues, questions, or suggestions, you can contact me at: Phone: 0864574647464
+Support and contact details For any issues, questions, or suggestions, you can contact me at: Phone number: 0864574647464
 
 License All rights reserved. Copyright (c) 2024 Okuku Brian. We are located along Ngong Road, Nairobi, Kenya.
