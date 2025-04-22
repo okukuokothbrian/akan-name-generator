@@ -2,7 +2,7 @@ Akan Name Generator is a tool to assign Akan names based on the day of the week 
 
 Setup/Installation Requirements; No special setup required; simply open the HTML file in your browser to access the application.
 
-Known Bugs There are no known bugs as of now.
+Known Bugs, There are no known bugs as of now.
 
 Technologies Used HTML
 
