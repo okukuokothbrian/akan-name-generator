@@ -1,4 +1,4 @@
-Akan Name Generator is a tool to assign Akan names based on the day of the week someone is born, it was designed on April 19th, 2024 By Okuku Brian Description The Akan Name Generator helps in naming children based on the day of the week they were born. It calculates the corresponding Akan name from the day of the week, following Akan traditions.
+Akan Name Generator is a tool to assign Akan names based on the day of the week someone is born, it was designed on April 19th, 2024 By Okuku Brian. Description The Akan Name Generator helps in naming children based on the day of the week they were born. It calculates the corresponding Akan name from the day of the week, following Akan traditions.
 
 Setup/Installation Requirements No special setup required; simply open the HTML file in your browser to access the application.
 
